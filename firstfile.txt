@@ -1,3 +1,7 @@
 Headline
 
 firstfile with content
+
+======
+
+We also get new content in this file.
