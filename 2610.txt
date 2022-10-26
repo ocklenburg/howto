@@ -2,8 +2,8 @@ new day new file.
 
 Let's continue this story.
 
-<<<<<<< HEAD
 Oha. This will cause a merge conflict.
 =======
 Another line.
->>>>>>> a99fa83cd5e29ea783f149de2072af0c3513df59
+
+It did.
